@@ -1,8 +1,12 @@
 <h1>Easy-shopping </h1>
 <br>
 <br>
-<h2>esse foi um projeto que aprendi no <a href="https://rodolfo.mori/devclub">devclub</a></h2>
+<h2>Esse foi um projeto que aprendi no <a href="https://rodolfo.mori/devclub">devclub</a></h2>
 <br>
-<h3>neste projeto foram usados HTML e CSS responsivo</h3>
+<h2>Neste projeto aprendi como usar o CSS responsivo</h2>
+<h3>Foram usadas as sequintes tecnologias:</h3>
+<h3>-HTML</h3>
+<h3>-CSS</h3>
 <br>
 <img src="https://github.com/raphabonadia/easy-shopping/blob/master/assets/desktop.png?raw=true">
+<br>
